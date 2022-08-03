@@ -9,7 +9,8 @@ public class Grage {
 		
 		System.out.println("\ngrage door:" + numberOfGrageDoor + "\nCar cabacity: " + numberOfCarCabacity + "\nColor:	" + grageColor );
 		
-
+String newString  = "New TekSchool";
+System.out.println(newString);
 
 	}
 
